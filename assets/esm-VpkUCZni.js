@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-Ddd_IcUq.js","./index-DaCuJYi5.js"])))=>i.map(i=>d[i]);
+import{i as e,t}from"./index-DaCuJYi5.js";var n=e(`ScreenOrientation`,{web:()=>t(()=>import(`./web-Ddd_IcUq.js`).then(e=>new e.ScreenOrientationWeb),__vite__mapDeps([0,1]),import.meta.url)});export{n as ScreenOrientation};

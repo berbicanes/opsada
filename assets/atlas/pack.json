@@ -1,0 +1,250 @@
+{
+	"textures": [
+		{
+			"image": "pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1416,
+				"h": 1284
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "castle_blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 780,
+						"h": 638
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 780,
+						"h": 638
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 780,
+						"h": 638
+					}
+				},
+				{
+					"filename": "castle_red",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 780,
+						"h": 638
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 780,
+						"h": 638
+					},
+					"frame": {
+						"x": 2,
+						"y": 644,
+						"w": 780,
+						"h": 638
+					}
+				},
+				{
+					"filename": "panel_wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 628,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 628,
+						"h": 700
+					},
+					"frame": {
+						"x": 786,
+						"y": 2,
+						"w": 628,
+						"h": 700
+					}
+				},
+				{
+					"filename": "card",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 240
+					},
+					"frame": {
+						"x": 786,
+						"y": 706,
+						"w": 165,
+						"h": 240
+					}
+				},
+				{
+					"filename": "btn_menu",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 140
+					},
+					"frame": {
+						"x": 786,
+						"y": 950,
+						"w": 139,
+						"h": 140
+					}
+				},
+				{
+					"filename": "btn_sound",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 120
+					},
+					"frame": {
+						"x": 786,
+						"y": 1094,
+						"w": 119,
+						"h": 120
+					}
+				},
+				{
+					"filename": "btn_sound_off",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 120
+					},
+					"frame": {
+						"x": 909,
+						"y": 1094,
+						"w": 119,
+						"h": 120
+					}
+				},
+				{
+					"filename": "icon_trophy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 120
+					},
+					"frame": {
+						"x": 929,
+						"y": 950,
+						"w": 119,
+						"h": 120
+					}
+				},
+				{
+					"filename": "star",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 100
+					},
+					"frame": {
+						"x": 1032,
+						"y": 1074,
+						"w": 98,
+						"h": 100
+					}
+				},
+				{
+					"filename": "icon_clock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 90
+					},
+					"frame": {
+						"x": 1032,
+						"y": 1178,
+						"w": 78,
+						"h": 90
+					}
+				},
+				{
+					"filename": "icon_lock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 80
+					},
+					"frame": {
+						"x": 1114,
+						"y": 1178,
+						"w": 64,
+						"h": 80
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.9"
+	}
+}

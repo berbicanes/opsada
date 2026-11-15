@@ -1,0 +1,40 @@
+{
+	"textures": [
+		{
+			"image": "backdrop.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1604,
+				"h": 904
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg_far",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1600,
+						"h": 900
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1600,
+						"h": 900
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 1600,
+						"h": 900
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.9"
+	}
+}
